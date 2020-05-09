@@ -10,5 +10,15 @@ In this lesson we learned:
 - Making our first pull request
 - When not to force push and how to preserve history
 - Using branches for bug fixes
+- Safe
 - Rebasing a branch
 - Using Stack Overflow to help solve a problem
+
+
+For a future lesson:
+
+- Cherry picking 
+- Stashing
+- Hard, mixed, and soft resetting
+- Detached HEAD mode
+- Setting up multiple remotes and why
