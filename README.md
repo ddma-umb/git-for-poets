@@ -8,6 +8,7 @@ In this lesson we learned:
 - Setting up remotes and making our first push to Github
 - Making and merging a feature branch
 - Making our first pull request
+- When not to force push and how to preserve history
 - Using branches for bug fixes
 - Rebasing a branch
 - Using Stack Overflow to help solve a problem
